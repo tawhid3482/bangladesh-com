@@ -1,0 +1,19 @@
+*{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+h2{
+    color:blue;
+    font-size: 30px;
+    margin: 20px;
+
+}
+
+p{
+    background-color: bisque;
+    color: black;
+    margin: 10px 12px;
+    padding: 15px 12px;
+}
